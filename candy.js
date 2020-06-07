@@ -1,3 +1,3 @@
-function rescipeCake(){
+function rescipeCandy(){
 	console.log("Step below:");
 }
